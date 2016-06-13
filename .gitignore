@@ -16,3 +16,6 @@ Test.DB.*
 TestResults/
 Dapper.Tests/*.sdf
 .dotnet/*
+packages
+*.ncrunchsolution
+**/*.ncrunchproject
